@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Asa1-rPIK.aternos.me",
+    "ip": Asa1-rPIK.aternos.me:37718",
     "port": ,
     "version": "26.1.2",
     "try-creative": false
